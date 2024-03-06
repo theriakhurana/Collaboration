@@ -7,7 +7,7 @@ int main(){
     scanf("%d", &a);
     printf("Enter b: ");
     scanf("%d", &b);
-
+    printf("meri help bhi krdo");
     printf("Sum: %d", a+b);
     return 0;
 }
